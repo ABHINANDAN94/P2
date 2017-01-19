@@ -3,7 +3,7 @@
 #include<math.h>
 int main()
 {
-	int i,j,n,count=1,a[20][20],round;
+	int i,j,n,h,count=1,a[20][20],round;
 	//clrscr();
 	
 	printf("\nEnter the size of matrix = ");
